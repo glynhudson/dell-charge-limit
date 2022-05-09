@@ -5,10 +5,14 @@ Linux command line scripts to limit Dell laptop charge level.
 Laptop battery life can be prolonged by limiting the charge level to 80%. E.g when plugged into AC for long periods. 
 
 Tested on:
-
+#### 1. Configuration
 - Dell XPS 13 9360
 - Ubuntu 10.04 
 - Dell Command | Configure 4.3 
+#### 2. Configuration
+- Dell Vostro 10 3510
+- Ubuntu 20.04
+- Dell Command | Configure 4.7
 
 It's possible to set a charge limit in the BIOS, however it's inconvenient to have to reboot to charge the level e.g when a full charge is required. 
 
