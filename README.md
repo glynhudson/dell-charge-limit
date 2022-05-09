@@ -10,6 +10,10 @@ Tested on:
 - Ubuntu 10.04 
 - Dell Command | Configure 4.3 
 
+- Dell Vostro 10 3510
+- Ubuntu 20.04
+- Dell Command | Configure 4.7
+
 It's possible to set a charge limit in the BIOS, however it's inconvenient to have to reboot to charge the level e.g when a full charge is required. 
 
 The Dell Command Config tool provides a way to adjust the charge limit via command line, I’ve wrapped up these commands into a simple bash script to make them easy and quick to run.
