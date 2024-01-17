@@ -13,6 +13,10 @@ Tested on:
 - Dell Vostro 10 3510
 - Ubuntu 20.04
 - Dell Command | Configure 4.7
+#### 3. Configuration
+- Dell XPS 17 9720
+- Ubuntu 23.10
+- Dell Command | Configure 4.11.0
 
 It's possible to set a charge limit in the BIOS, however it's inconvenient to have to reboot to charge the level e.g when a full charge is required. 
 
